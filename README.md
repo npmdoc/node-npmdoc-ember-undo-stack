@@ -1,6 +1,6 @@
 # npmdoc-ember-undo-stack
 
-#### api documentation for  [ember-undo-stack (v0.4.0)](https://github.com/intercom/ember-undo-stack)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-undo-stack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-undo-stack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-undo-stack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-undo-stack)
+#### basic api documentation for  [ember-undo-stack (v0.4.0)](https://github.com/intercom/ember-undo-stack)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-undo-stack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-undo-stack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-undo-stack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-undo-stack)
 
 #### A simple undo/redo stack for Ember.js objects
 
@@ -91,7 +91,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "0.4.0"
+    "version": "0.4.0",
+    "bin": {}
 }
 ```
 
